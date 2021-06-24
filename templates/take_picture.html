@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    {% extends "template.html" %}
+    {% block content %}
+
+    <ul>
+	    <li>Camera:
+		    <ul>
+	            <form method="post">    
+		    <input type="submit" name="take_picture" value= "Take Picture"></li>
+		    </form>
+		    </ul>		    
+	    </li>
+      <li>Picture Status: {{picture_status}}</li>
+		  <li>Air Quality</li>
+	</ul>
+    
+    {% endblock %}
+    
+  </body>
+</html>
+
+

@@ -1,0 +1,435 @@
+ * Debugger is active!
+ * Debugger PIN: 228-088-937
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Debugger is active!
+ * Debugger PIN: 228-088-937
+10.0.0.150 - - [11/Jun/2021 18:56:07] "GET / HTTP/1.1" 200 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 228-088-937
+10.0.0.150 - - [11/Jun/2021 19:00:22] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [11/Jun/2021 19:00:24] "POST / HTTP/1.1" 200 -
+10.0.0.150 - - [11/Jun/2021 19:00:33] "POST / HTTP/1.1" 200 -
+10.0.0.150 - - [11/Jun/2021 19:00:40] "POST / HTTP/1.1" 200 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Debugger is active!
+ * Debugger PIN: 228-088-937
+10.0.0.150 - - [11/Jun/2021 19:01:12] "POST / HTTP/1.1" 500 -
+10.0.0.150 - - [11/Jun/2021 19:01:12] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [11/Jun/2021 19:01:12] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+10.0.0.150 - - [11/Jun/2021 19:01:12] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [11/Jun/2021 19:01:12] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Debugger is active!
+ * Debugger PIN: 228-088-937
+10.0.0.150 - - [11/Jun/2021 19:01:40] "POST / HTTP/1.1" 200 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Debugger is active!
+ * Debugger PIN: 228-088-937
+10.0.0.150 - - [11/Jun/2021 19:03:58] "POST / HTTP/1.1" 500 -
+10.0.0.150 - - [11/Jun/2021 19:03:58] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [11/Jun/2021 19:03:58] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+10.0.0.150 - - [11/Jun/2021 19:03:58] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [11/Jun/2021 19:03:58] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Running on http://10.0.0.16:81/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 228-088-937
+10.0.0.195 - - [12/Jun/2021 08:50:30] "GET / HTTP/1.1" 200 -
+10.0.0.195 - - [12/Jun/2021 08:50:36] "POST / HTTP/1.1" 200 -
+ * Running on http://10.0.0.16:81/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 228-088-937
+10.0.0.195 - - [13/Jun/2021 00:22:35] "GET / HTTP/1.1" 200 -
+10.0.0.195 - - [13/Jun/2021 00:22:41] "POST / HTTP/1.1" 200 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Running on http://10.0.0.16:81/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 228-088-937
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 228-088-937
+10.0.0.195 - - [13/Jun/2021 00:25:15] "GET / HTTP/1.1" 200 -
+10.0.0.195 - - [13/Jun/2021 00:25:18] "GET /video_feed HTTP/1.1" 200 -
+10.0.0.195 - - [13/Jun/2021 00:25:27] "GET /video_feed2 HTTP/1.1" 404 -
+10.0.0.195 - - [13/Jun/2021 00:25:30] "GET /video_feed HTTP/1.1" 500 -
+10.0.0.195 - - [13/Jun/2021 00:25:30] "GET /video_feed?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+10.0.0.195 - - [13/Jun/2021 00:25:30] "GET /video_feed?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [13/Jun/2021 00:25:30] "GET /video_feed?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [13/Jun/2021 00:25:30] "GET /video_feed?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [13/Jun/2021 00:25:30] "GET /video_feed?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+10.0.0.150 - - [23/Jun/2021 11:45:48] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:45:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 11:46:04] "POST / HTTP/1.1" 200 -
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+10.0.0.150 - - [23/Jun/2021 11:51:41] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:51:46] "POST / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:52:56] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:52:58] "[33mGET /data/pictures HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 11:52:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 11:57:45] "[33mGET /data/pictures HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 11:57:48] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 11:57:48] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:57:48] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:57:48] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:57:48] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:57:48] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:57:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 11:57:51] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:58:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 11:58:20] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:58:20] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:58:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:58:20] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:58:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 11:58:21] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:58:21] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:58:22] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:58:22] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+10.0.0.150 - - [23/Jun/2021 11:59:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 11:59:26] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:59:26] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:59:26] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:59:26] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:59:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 11:59:51] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:59:51] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:59:51] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 11:59:51] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 12:00:26] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:26] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:26] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:26] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 12:00:28] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:28] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:28] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:28] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 12:00:28] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:28] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:28] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:28] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 12:00:28] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:28] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:28] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:28] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 12:00:33] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:33] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:33] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:33] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 12:00:33] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:33] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:33] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:33] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:34] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 12:00:34] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:34] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:34] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:34] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:34] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 12:00:34] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:34] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:34] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 12:00:34] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+10.0.0.150 - - [23/Jun/2021 14:52:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 14:52:22] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:52:22] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:52:22] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:52:22] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:52:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 14:52:25] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:52:25] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:52:25] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:52:25] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+10.0.0.150 - - [23/Jun/2021 14:54:58] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:54:58] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:55:05] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+10.0.0.150 - - [23/Jun/2021 14:55:51] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:55:51] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:55:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:55:53] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:55:53] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:55:53] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:55:53] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:55:53] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:55:53] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:55:54] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:55:54] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:55:55] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:55:55] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:55:56] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:55:56] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:55:57] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:55:57] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:55:58] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:55:58] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:56:04] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:56:04] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:56:05] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:56:05] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:57:25] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:57:25] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:57:58] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.150 - - [23/Jun/2021 14:57:58] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:57:58] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:57:58] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:57:58] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:58:06] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:58:06] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:58:07] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:58:07] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:58:08] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:58:08] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:58:09] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:58:09] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:58:09] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:58:09] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:58:10] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:58:10] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 14:58:13] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 14:58:13] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 16:53:30] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 16:53:30] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 16:53:33] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 16:53:33] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 16:53:34] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 16:53:34] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 16:53:35] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 16:53:35] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 16:53:35] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 16:53:35] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 16:53:36] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 16:53:36] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 16:53:37] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 16:53:37] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 16:53:38] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 16:53:38] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 16:53:38] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 16:53:38] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 16:53:39] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 16:53:39] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 16:53:39] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 16:53:39] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 16:53:39] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 16:53:39] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [23/Jun/2021 16:53:40] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [23/Jun/2021 16:53:40] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+10.0.0.150 - - [24/Jun/2021 10:26:22] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:26:22] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+10.0.0.150 - - [24/Jun/2021 10:36:38] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:36:38] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:36:40] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:36:40] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:36:41] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:36:41] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:36:42] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:36:42] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:36:43] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:36:43] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:36:43] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:36:43] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:37:13] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:37:13] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:37:14] "[35m[1mGET /take_picture HTTP/1.1[0m" 500 -
+10.0.0.150 - - [24/Jun/2021 10:37:14] "GET /take_picture?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:37:14] "GET /take_picture?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:37:14] "GET /take_picture?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:37:14] "GET /take_picture?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:37:14] "GET /take_picture?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+10.0.0.150 - - [24/Jun/2021 10:37:34] "GET /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:37:34] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:37:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:37:39] "POST /take_picture HTTP/1.1" 200 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+10.0.0.150 - - [24/Jun/2021 10:40:11] "GET /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:40:11] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:40:16] "POST /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:41:04] "GET /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:41:04] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:41:17] "GET /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:41:17] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+10.0.0.150 - - [24/Jun/2021 10:41:55] "GET /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:41:55] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:42:00] "POST /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:42:00] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:42:04] "[35m[1mPOST /take_picture HTTP/1.1[0m" 500 -
+10.0.0.150 - - [24/Jun/2021 10:42:04] "GET /take_picture?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:42:04] "GET /take_picture?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:42:04] "GET /take_picture?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:42:04] "GET /take_picture?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+10.0.0.150 - - [24/Jun/2021 10:46:09] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:46:09] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:46:12] "GET /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:46:12] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+10.0.0.150 - - [24/Jun/2021 10:52:21] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:52:21] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:52:22] "GET /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:52:22] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:52:26] "POST /take_picture HTTP/1.1" 200 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+10.0.0.150 - - [24/Jun/2021 10:54:56] "GET /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:54:56] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:55:02] "POST /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:55:02] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:55:02] "[33mGET /home/pi/Documents/Projects/Jarvis/data/pictures/image_20210624-105501.jpg HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:55:55] "[35m[1mPOST /take_picture HTTP/1.1[0m" 500 -
+10.0.0.150 - - [24/Jun/2021 10:55:55] "GET /take_picture?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:55:55] "GET /take_picture?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:55:55] "GET /take_picture?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:55:55] "GET /take_picture?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:00] "GET /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:00] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:56:01] "[35m[1mPOST /take_picture HTTP/1.1[0m" 500 -
+10.0.0.150 - - [24/Jun/2021 10:56:01] "GET /take_picture?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:01] "GET /take_picture?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:01] "GET /take_picture?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:01] "GET /take_picture?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:16] "[35m[1mPOST /take_picture HTTP/1.1[0m" 500 -
+10.0.0.150 - - [24/Jun/2021 10:56:16] "GET /take_picture?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:16] "GET /take_picture?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:16] "GET /take_picture?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:16] "GET /take_picture?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:18] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:18] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:56:19] "GET /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:19] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:56:20] "[35m[1mPOST /take_picture HTTP/1.1[0m" 500 -
+10.0.0.150 - - [24/Jun/2021 10:56:20] "GET /take_picture?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:20] "GET /take_picture?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:20] "GET /take_picture?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:20] "GET /take_picture?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+10.0.0.150 - - [24/Jun/2021 10:56:39] "POST /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:39] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:56:39] "[33mGET /home/pi/Documents/Projects/Jarvis/data/pictures/image_20210624-105638.jpg HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 10:56:41] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 10:56:41] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+ * Detected change in '/home/pi/Documents/Projects/Jarvis/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-555-114
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 142-604-994
+10.0.0.150 - - [24/Jun/2021 11:34:51] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 11:34:51] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 11:34:54] "GET /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 11:34:54] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 11:34:56] "GET /about HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 11:34:56] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 11:34:56] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 11:34:56] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.150 - - [24/Jun/2021 11:34:57] "GET /take_picture HTTP/1.1" 200 -
+10.0.0.150 - - [24/Jun/2021 11:34:57] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
