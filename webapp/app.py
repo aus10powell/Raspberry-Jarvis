@@ -22,6 +22,7 @@ logger.addHandler(handler)
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = PICTURE_DIR
 
+
 def take_picture():
     """Receives click form html form and takes picture on Pi"""
     print("Camera button was clicked", file=sys.stderr)
@@ -78,5 +79,4 @@ def video_feed():
 
 
 if __name__ == "__main__":
-    app.run()
-
+    app.run(debug=True, host="10.0.0.16", port=5000)
