@@ -14,8 +14,10 @@ PICTURE_DIR = os.path.join("static", "raspberry_pictures")
 
 
 app = Flask(__name__)
-app.register_blueprint(home_bp, template_folder="templates",static_folder="static")
-app.register_blueprint(vision_bp, url_prefix='/vision' , template_folder="templates",static_folder="static")
+app.register_blueprint(home_bp, template_folder="templates", static_folder="static")
+app.register_blueprint(
+    vision_bp, url_prefix="/vision", template_folder="templates", static_folder="static"
+)
 
 
 logger = logging.getLogger("werkzeug")
@@ -24,5 +26,4 @@ logger.addHandler(handler)
 
 
 if __name__ == "__main__":
-    app.run() #host="0.0.0.0", debug=True,port=5000
-    
+    app.run()  # host="0.0.0.0", debug=True,port=5000

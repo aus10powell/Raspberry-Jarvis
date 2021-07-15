@@ -12,27 +12,23 @@ from bokeh import embed
 from bokeh.util import string
 
 vision_bp = Blueprint(
-    "vision_bp",
-    __name__,
-    template_folder="templates",
-    static_folder="static"
+    "vision_bp", __name__, template_folder="templates", static_folder="static"
 )
 
 
-PICTURE_DIR = os.path.join(os.path.dirname(os.path.realpath(__file__)),"static", "raspberry_pictures")
+PICTURE_DIR = os.path.join(
+    os.path.dirname(os.path.realpath(__file__)), "static", "raspberry_pictures"
+)
 
-@vision_bp.route('/bokeh')
+
+@vision_bp.route("/bokeh")
 def bokeh():
-   
+
     # init a basic bar chart:
     # http://bokeh.pydata.org/en/latest/docs/user_guide/plotting.html#bars
     fig = plotting.figure(plot_width=600, plot_height=600)
     fig.vbar(
-        x=[1, 2, 3, 4],
-        width=0.5,
-        bottom=0,
-        top=[1.7, 2.2, 4.6, 3.9],
-        color='navy'
+        x=[1, 2, 3, 4], width=0.5, bottom=0, top=[1.7, 2.2, 4.6, 3.9], color="navy"
     )
 
     # grab the static resources
@@ -42,14 +38,14 @@ def bokeh():
     # render template
     script, div = embed.components(fig)
     html = render_template(
-        'bokeh.html',
+        "bokeh.html",
         plot_script=script,
         plot_div=div,
         js_resources=js_resources,
         css_resources=css_resources,
     )
 
-    return html.encode('utf8')
+    return html.encode("utf8")
 
 
 @vision_bp.route("/take_picture", methods=["POST", "GET"])
@@ -59,7 +55,10 @@ def take_picture():
         pic_fname = "image_{}.jpg".format(
             datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
         )
-        print('Hello world! {}'.format(os.path.dirname(os.path.realpath(__file__))), file=sys.stderr)
+        print(
+            "Hello world! {}".format(os.path.dirname(os.path.realpath(__file__))),
+            file=sys.stderr,
+        )
         # Take a picture
         with PiCamera() as camera:
             sleep(1)
@@ -78,9 +77,8 @@ def take_picture():
             picture_status=picture_status,
         )
 
+
 @vision_bp.route("/display_pictures")
 def display_pictures():
     image_names = os.listdir(PICTURE_DIR)
-    return render_template(
-        "display_picture.html", image_names=image_names
-    )
+    return render_template("display_picture.html", image_names=image_names)
