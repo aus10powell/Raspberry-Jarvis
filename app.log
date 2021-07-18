@@ -2516,3 +2516,1358 @@
 10.0.0.195 - - [10/Jul/2021 13:17:38] "[36mGET /vision/static/raspberry_pictures/image_20210625-123249.jpg HTTP/1.1[0m" 304 -
 10.0.0.195 - - [10/Jul/2021 13:17:38] "GET /vision/take_picture HTTP/1.1" 200 -
 10.0.0.195 - - [10/Jul/2021 13:17:38] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 09:14:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 09:14:20] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:14:20] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:14:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:14:20] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/app.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 09:19:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 09:19:00] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:19:00] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:19:00] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:19:00] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:19:34] "GET / HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:19:34] "GET /static/css/template.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:19:36] "[35m[1mGET /air_quality/current_air_quality HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 09:19:36] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:19:36] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:19:36] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:19:36] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:19:36] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:48:33] "[35m[1mGET /air_quality/current_air_quality HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 09:48:33] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:48:33] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:48:33] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:48:33] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 09:48:56] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:52:56] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 09:53:56] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:08:40] "[35m[1mGET /air_quality/current_air_quality HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 11:08:40] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:08:40] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:08:40] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:08:40] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:09:47] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:10:07] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:10:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.195 - - [15/Jul/2021 11:13:55] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:14:26] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:14:29] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:14:43] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:14:43] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:14:43] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:15:29] "[35m[1mGET /air_quality/current_air_quality HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 11:15:29] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:15:29] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:15:29] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:15:29] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:15:38] "[35m[1mGET /air_quality/current_air_quality HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 11:15:38] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:15:38] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:15:38] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:15:38] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:15:39] "[35m[1mGET /air_quality/current_air_quality HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 11:15:39] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:15:39] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:15:39] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:15:39] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:16:07] "[35m[1mGET /air_quality/current_air_quality HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 11:16:07] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:16:07] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:16:07] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:16:07] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:16:28] "[35m[1mGET /air_quality/current_air_quality HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 11:16:28] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:16:28] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:16:28] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:16:28] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:16:29] "[35m[1mGET /air_quality/current_air_quality HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 11:16:29] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:16:29] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:16:29] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:16:29] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:16:47] "[35m[1mGET /air_quality/current_air_quality HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 11:16:47] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:16:47] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:16:47] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:16:47] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:17:11] "[35m[1mGET /air_quality/current_air_quality HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 11:17:11] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:17:12] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:17:12] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:17:12] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:17:12] "[35m[1mGET /air_quality/current_air_quality HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 11:17:12] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:17:12] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:17:12] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:17:12] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:18:05] "[35m[1mGET /air_quality/current_air_quality HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 11:18:05] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:18:05] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:18:05] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:18:05] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:18:29] "[35m[1mGET /air_quality/current_air_quality HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 11:18:29] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:18:29] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:18:29] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:18:29] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:19:03] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:28:47] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:43:34] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:44:00] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:44:46] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:52:47] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:54:22] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:54:25] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:54:43] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:54:43] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:54:43] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:54:43] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:54:43] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:54:55] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:54:55] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:54:55] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:54:55] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:54:55] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:56:08] "[33mGET /air_quality/current_air_quality/embed.html HTTP/1.1[0m" 404 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:58:37] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:58:37] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:58:47] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:58:50] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:58:52] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:59:09] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:59:11] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 11:59:25] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 11:59:27] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:03:09] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:03:17] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:04:21] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:05:01] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:05:07] "[35m[1mGET /vision/display_pictures HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 12:05:07] "GET /vision/display_pictures?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:05:07] "GET /vision/display_pictures?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:05:08] "GET /vision/display_pictures?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:05:08] "GET /vision/display_pictures?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:05:12] "[35m[1mGET /vision/bokeh HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 12:05:12] "GET /vision/bokeh?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:05:12] "GET /vision/bokeh?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:05:12] "GET /vision/bokeh?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:05:12] "GET /vision/bokeh?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:05:17] "[35m[1mGET /vision/bokeh HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 12:05:17] "GET /vision/bokeh?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:05:17] "GET /vision/bokeh?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:05:17] "GET /vision/bokeh?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:05:17] "GET /vision/bokeh?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:06:18] "[35m[1mGET /vision/bokeh HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 12:06:18] "GET /vision/bokeh?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:06:18] "GET /vision/bokeh?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:06:18] "GET /vision/bokeh?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:06:18] "GET /vision/bokeh?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:06:20] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:06:20] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:06:20] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:06:20] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:06:20] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:06:21] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:06:21] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:06:21] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:06:21] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:06:21] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/app.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:07:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 12:07:50] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:07:50] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:07:50] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:07:50] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/app.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:08:05] "GET / HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:08:05] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:07] "GET /vision/take_picture HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:08:07] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "GET /vision/display_pictures HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "GET /vision/static/raspberry_pictures/image_20210709-173829.jpg HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "GET /vision/static/raspberry_pictures/image_20210625-122643.jpg HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "GET /vision/static/raspberry_pictures/image_20210709-183307.jpg HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "GET /vision/static/raspberry_pictures/image_20210713-110355.jpg HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "GET /vision/static/raspberry_pictures/image_20210625-123249.jpg HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "[36mGET /vision/static/raspberry_pictures/image_20210705-120555.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "[36mGET /vision/static/raspberry_pictures/image_20210625-120144.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "[36mGET /vision/static/raspberry_pictures/image_20210629-125458.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "[36mGET /vision/static/raspberry_pictures/image_20210709-175008.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "[36mGET /vision/static/raspberry_pictures/image_20210705-112502.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "[36mGET /vision/static/raspberry_pictures/image_20210709-174920.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "[36mGET /vision/static/raspberry_pictures/image_20210629-125814.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "[36mGET /vision/static/raspberry_pictures/image_20210709-173816.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:08] "[36mGET /vision/static/raspberry_pictures/image_20210625-113449.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:09] "[36mGET /vision/static/raspberry_pictures/image_20210629-125449.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:09] "[36mGET /vision/static/raspberry_pictures/image_20210625-122633.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:09] "[36mGET /vision/static/raspberry_pictures/image_20210625-125036.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:09] "[36mGET /vision/static/raspberry_pictures/image_20210625-123259.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:09] "[36mGET /vision/static/raspberry_pictures/image_20210629-174651.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:09] "[36mGET /vision/static/raspberry_pictures/image_20210709-174948.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:09] "[36mGET /vision/static/raspberry_pictures/image_20210709-174947.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:09] "[36mGET /vision/static/raspberry_pictures/image_20210629-125809.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:09] "[36mGET /vision/static/raspberry_pictures/image_20210705-112513.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:09] "[36mGET /vision/static/raspberry_pictures/image_20210626-154342.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:09] "[36mGET /vision/static/raspberry_pictures/image_20210705-212547.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:09] "[36mGET /vision/static/raspberry_pictures/image_20210709-175100.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:09] "[36mGET /vision/static/raspberry_pictures/image_20210705-120501.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:10] "GET /about HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:08:10] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:10] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:11] "GET / HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:08:11] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "GET /vision/display_pictures HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210705-120555.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210629-125458.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210709-173829.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210625-120144.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210709-175008.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210629-125814.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210709-174920.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210709-173816.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210705-112502.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210629-125449.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210625-113449.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210625-122633.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210625-122643.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210625-125036.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210625-123259.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210709-174948.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210709-183307.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210629-174651.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210626-154342.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210629-125809.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210705-112513.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210709-174947.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210709-175100.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210705-212547.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210705-120501.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210713-110355.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:12] "[36mGET /vision/static/raspberry_pictures/image_20210625-123249.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "GET /vision/display_pictures HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210629-125458.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210709-175008.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210625-120144.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210709-173829.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210705-112502.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210705-120555.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210629-125814.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210629-125449.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210709-174920.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210709-173816.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210625-113449.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210625-122643.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210625-122633.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210709-183307.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210625-125036.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210709-174948.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210625-123259.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210629-174651.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210629-125809.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210709-175100.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210705-112513.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210709-174947.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210713-110355.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210626-154342.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210705-120501.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210625-123249.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:13] "[36mGET /vision/static/raspberry_pictures/image_20210705-212547.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:08:14] "GET /vision/bokeh HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:08:14] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:06] "GET /vision/display_pictures HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:09:06] "[36mGET /vision/static/raspberry_pictures/image_20210625-120144.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:06] "[36mGET /vision/static/raspberry_pictures/image_20210705-120555.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:06] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:06] "[36mGET /vision/static/raspberry_pictures/image_20210709-173829.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:06] "[36mGET /vision/static/raspberry_pictures/image_20210629-125458.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:06] "[36mGET /vision/static/raspberry_pictures/image_20210709-175008.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:06] "[36mGET /vision/static/raspberry_pictures/image_20210709-174920.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:06] "[36mGET /vision/static/raspberry_pictures/image_20210629-125449.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210709-173816.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210629-125814.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210625-122633.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210705-112502.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210625-122643.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210625-113449.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210625-125036.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210709-174948.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210625-123259.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210629-174651.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210709-183307.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210709-174947.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210629-125809.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210709-175100.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210705-112513.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210705-212547.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210626-154342.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210705-120501.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210625-123249.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "[36mGET /vision/static/raspberry_pictures/image_20210713-110355.jpg HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:09:07] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:09:10] "GET / HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:09:10] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:10] "GET /about HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:09:10] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:10] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:11] "GET /vision/take_picture HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:09:11] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:09:12] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:09:12] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:09:12] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:09:12] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:09:12] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:13:20] "[35m[1mGET /vision/take_picture HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 12:13:20] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:13:20] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:13:20] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:13:20] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:13:45] "[35m[1mGET /vision/take_picture HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 12:13:45] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:13:45] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:13:45] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:13:45] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:13:47] "[35m[1mGET /vision/take_picture HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 12:13:47] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:13:47] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:13:47] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:13:47] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:14:38] "[35m[1mGET /vision/take_picture HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 12:14:38] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:14:38] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:14:38] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:14:38] "GET /vision/take_picture?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:15:05] "GET /vision/take_picture HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:15:05] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:15:07] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:15:07] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:15:07] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:15:07] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:15:07] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/vision/vision.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:17:38] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:17:39] "GET /vision/bokeh HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:17:40] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+ * Detected change in '/home/pi/RaspberryJarvis/vision/vision.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:18:08] "GET /vision/bokeh HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:18:08] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:18:14] "GET /vision/bokeh HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:18:14] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:18:15] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:18:41] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:20:13] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:21:13] "GET /vision/bokeh HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:21:13] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 12:21:16] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:21:36] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:21:39] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:22:35] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/test_sensor.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:25:31] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:27:12] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:28:10] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:29:10] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 12:58:58] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 12:59:08] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [15/Jul/2021 13:00:16] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+10.0.0.151 - - [15/Jul/2021 13:48:27] "GET / HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:27] "GET /static/css/template.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.151 - - [15/Jul/2021 13:48:27] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+10.0.0.151 - - [15/Jul/2021 13:48:27] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+10.0.0.151 - - [15/Jul/2021 13:48:31] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.151 - - [15/Jul/2021 13:48:38] "GET /vision/take_picture HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:38] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 13:48:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.151 - - [15/Jul/2021 13:48:39] "GET /vision/take_picture HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:39] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/display_pictures HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210709-173829.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210705-120555.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210709-175008.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210625-120144.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210705-112502.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210709-174920.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210629-125449.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210629-125814.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210709-173816.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210629-125458.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210625-122633.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210625-122643.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210715-125701.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210625-125036.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210625-113449.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210625-123259.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210709-174948.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210629-174651.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210709-183307.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210629-125809.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210709-174947.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210626-154342.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210709-175100.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210705-120501.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210713-110355.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210705-212547.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210625-123249.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:40] "GET /vision/static/raspberry_pictures/image_20210705-112513.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:41] "GET /vision/bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:42] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 13:48:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.151 - - [15/Jul/2021 13:48:42] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:48:47] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:55:58] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:56:01] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:56:02] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:56:02] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:56:02] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:56:02] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:56:05] "GET /vision/bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:56:05] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 13:56:08] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:57:11] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:57:13] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:57:13] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:57:13] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 13:57:14] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:05:48] "[33mGET /air_quality/current_air_quality/bkapp HTTP/1.1[0m" 404 -
+10.0.0.151 - - [15/Jul/2021 15:05:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.151 - - [15/Jul/2021 15:06:01] "[33mGET /air_quality/current_air_quality/bkapp HTTP/1.1[0m" 404 -
+10.0.0.151 - - [15/Jul/2021 15:06:03] "[33mGET /air_quality/current_air_quality/bkapp_page HTTP/1.1[0m" 404 -
+10.0.0.151 - - [15/Jul/2021 15:06:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.151 - - [15/Jul/2021 15:10:35] "[33mGET /air_quality/test_bokeh HTTP/1.1[0m" 404 -
+10.0.0.151 - - [15/Jul/2021 15:10:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.151 - - [15/Jul/2021 15:11:22] "GET /vision/bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:22] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210709-173829.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210709-174920.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210629-125814.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210629-125449.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210625-122633.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210715-125701.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210625-125036.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210625-123259.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210709-174948.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210709-183307.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210629-174651.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210629-125809.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210709-174947.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210626-154342.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210709-175100.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210705-120501.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210713-110355.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:24] "GET /vision/static/raspberry_pictures/image_20210705-112513.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+10.0.0.151 - - [15/Jul/2021 15:11:42] "GET /vision/display_pictures HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210709-173829.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210629-125458.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210625-120144.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210705-112502.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210709-175008.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210705-120555.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210709-174920.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210625-122633.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210629-125449.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210629-125814.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210709-173816.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210625-122643.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210625-113449.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210715-125701.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210625-123259.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210625-125036.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210709-174948.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210709-183307.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210629-125809.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210709-174947.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210629-174651.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210626-154342.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210705-112513.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210709-175100.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210705-120501.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210705-212547.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210713-110355.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:43] "[36mGET /vision/static/raspberry_pictures/image_20210625-123249.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:11:45] "[35m[1mGET /air_quality/test_bokeh HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 15:12:34] "[35m[1mGET /air_quality/test_bokeh HTTP/1.1[0m" 500 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+10.0.0.151 - - [15/Jul/2021 15:12:45] "GET /vision/bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:12:46] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:12:47] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:12:58] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 15:13:26] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:13:28] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:13:31] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 15:13:48] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 15:15:11] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:15:50] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:18:30] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:21:08] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:21:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 15:22:25] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:22:30] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 15:23:06] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:23:06] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:30:06] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:30:19] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:30:20] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:30:21] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:30:22] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:30:22] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:30:23] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:30:23] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:30:23] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:30:24] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:30:24] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:30:24] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:30:25] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 15:30:36] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:11] "GET /static/css/template.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:11] "GET /vision/static/raspberry_pictures/image_20210709-173829.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:11] "GET /vision/static/raspberry_pictures/image_20210625-120144.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:11] "GET /vision/static/raspberry_pictures/image_20210709-175008.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:11] "GET /vision/static/raspberry_pictures/image_20210705-112502.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:11] "GET /vision/static/raspberry_pictures/image_20210629-125458.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:11] "GET /static/css/template.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:13] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:15] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:18] "GET /vision/display_pictures HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210705-120555.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210625-120144.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210709-173829.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210629-125458.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210709-175008.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210705-112502.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210709-174920.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210629-125814.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210629-125449.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210709-173816.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210625-122633.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210625-122643.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210715-125701.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210625-113449.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210625-123259.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210709-183307.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210709-174948.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210625-125036.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210629-174651.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210709-174947.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210629-125809.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210705-112513.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210626-154342.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210709-175100.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210705-212547.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210705-120501.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210625-123249.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:19] "GET /vision/static/raspberry_pictures/image_20210713-110355.jpg HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:21] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:32:23] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 15:32:48] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 15:33:28] "[35m[1mGET /air_quality/current_air_quality HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 15:33:28] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:33:28] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:33:28] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:33:28] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:33:28] "GET /air_quality/current_air_quality?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:33:35] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:33:36] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:33:36] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:33:37] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 15:33:47] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:33:48] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:33:56] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 15:33:57] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 15:34:10] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:10:22] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 16:15:43] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 16:19:09] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 16:19:23] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:26:27] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:26:34] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 16:26:52] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 16:32:34] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 16:37:10] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:37:15] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 16:37:56] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 16:38:21] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:38:28] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:38:34] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:38:39] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 16:39:08] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 16:50:17] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:50:21] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "GET /vision/display_pictures HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210629-125458.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210709-173829.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210625-120144.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210705-120555.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210709-175008.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210705-112502.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210709-174920.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210629-125814.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210625-122633.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210709-173816.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210629-125449.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210625-122643.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210715-125701.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210625-125036.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210625-113449.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210625-123259.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210709-174948.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210709-183307.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210629-125809.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210709-174947.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210629-174651.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210705-112513.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210709-175100.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210626-154342.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210705-212547.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210705-120501.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210713-110355.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:23] "[36mGET /vision/static/raspberry_pictures/image_20210625-123249.jpg HTTP/1.1[0m" 304 -
+10.0.0.151 - - [15/Jul/2021 16:50:24] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 16:50:24] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:50:24] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:50:24] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:50:24] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:50:24] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 16:50:47] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 16:50:47] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:50:47] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:50:47] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:50:47] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 16:52:26] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 16:52:26] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:52:26] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:52:26] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:52:26] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * To enable the debugger you need to enter the security pin:
+ * Debugger pin code: 124-036-125
+10.0.0.151 - - [15/Jul/2021 16:53:02] "GET /air_quality/plotly?__debugger__=yes&cmd=printpin&s=s9rqwDSw5oO8GBKTQyGx HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:53:18] "GET /air_quality/plotly?__debugger__=yes&cmd=pinauth&pin=124-036-125&s=s9rqwDSw5oO8GBKTQyGx HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:53:28] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:53:33] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:53:39] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 16:53:39] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:53:39] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:53:40] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:53:40] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:54:21] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 16:54:21] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:54:21] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:54:21] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:54:21] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 16:59:18] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 16:59:18] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:59:18] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:59:19] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:59:19] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 16:59:46] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 16:59:46] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:59:46] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:59:46] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 16:59:46] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 17:00:27] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 17:00:27] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 17:00:27] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:00:27] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:00:27] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:00:27] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 17:01:41] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 17:01:41] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:01:41] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:01:41] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:01:41] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 17:02:08] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 17:02:08] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:02:08] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:02:08] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:02:08] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:02:35] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 17:02:35] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:02:35] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:02:35] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:02:35] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 17:03:22] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 17:03:22] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 17:03:22] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:03:22] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:03:22] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:03:22] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:03:48] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 17:03:48] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:03:48] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:03:48] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:03:48] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:03:52] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 17:03:52] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:03:52] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:03:52] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:03:52] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [15/Jul/2021 17:07:13] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [15/Jul/2021 17:07:14] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:07:14] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:07:14] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [15/Jul/2021 17:07:14] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+10.0.0.195 - - [15/Jul/2021 21:21:33] "GET / HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 21:21:33] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [15/Jul/2021 21:21:35] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 21:21:42] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.195 - - [15/Jul/2021 21:21:44] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 21:22:31] "GET /air_quality/current_air_quality HTTP/1.1" 200 -
+10.0.0.195 - - [15/Jul/2021 21:22:33] "GET /air_quality/test_bokeh HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+10.0.0.151 - - [16/Jul/2021 11:01:35] "GET / HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 11:01:35] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.151 - - [16/Jul/2021 11:01:39] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [16/Jul/2021 11:01:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 11:02:43] "[35m[1mGET /air_quality/plotly HTTP/1.1[0m" 500 -
+10.0.0.151 - - [16/Jul/2021 11:02:43] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 11:02:43] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 11:02:43] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 11:02:43] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 11:07:08] "GET /vision/take_picture HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 11:07:09] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.151 - - [16/Jul/2021 11:07:13] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 11:07:24] "[33mGET /callback?data=united%20states HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 11:07:32] "[33mGET /callback?data= HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 11:07:45] "[33mGET /callback?data=United%20Kingdom HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 11:07:53] "[33mGET /callback?data=China HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 11:10:01] "[33mGET /callback?data=Afghanistan HTTP/1.1[0m" 404 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 11:45:32] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 11:45:38] "[33mGET /callback?data=Africa HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 11:46:57] "[33mGET /callback?data=Africa2 HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 11:47:00] "[33mGET /callback?data=Africa HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 11:47:31] "[33mGET /callback?data= HTTP/1.1[0m" 404 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 11:49:30] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 11:49:36] "[33mGET /callback?data=Africa HTTP/1.1[0m" 404 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 11:50:08] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 11:50:19] "[33mGET /callback?data=Africa HTTP/1.1[0m" 404 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 11:50:58] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 11:51:01] "[33mGET /callback?data=Africa HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 11:51:06] "[33mGET /callback?data=asdf HTTP/1.1[0m" 404 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 11:54:39] "GET /vision/take_picture HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 11:54:39] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.151 - - [16/Jul/2021 11:54:44] "GET /air_quality/plotly HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 11:55:23] "GET /air_quality/plotly HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 12:02:28] "[33mGET /callback?data=Africa HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 12:02:39] "[33mGET /callback?data=%22Africa%22 HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 12:02:46] "[33mGET /callback?data= HTTP/1.1[0m" 404 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 12:04:01] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 12:04:06] "[33mGET /callback?data=Africa HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 12:05:33] "[33mGET /callback?data=United%20Kingdom HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 12:16:29] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:20:40] "[33mGET /callback?data=United%20Kingdom2 HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 13:21:04] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:21:07] "[33mGET /callback HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 13:21:51] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:21:55] "[33mGET /callback?data=Africa HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 13:23:01] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:23:04] "[33mGET /callback?data=Africa HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 13:26:48] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:26:51] "[33mGET /callback?data=Austin HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 13:28:52] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:28:55] "[33mGET /callback?data=Africa HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 13:29:01] "[33mGET /callback?data=Europ HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 13:29:02] "[33mGET /callback?data=Europe HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 13:29:38] "GET /air_quality/plotly HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 13:30:02] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:30:04] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:30:07] "[33mGET /callback?data=Algeria HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 13:33:03] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:33:10] "[33mGET /callback?data=Austria HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 13:33:41] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:33:52] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:34:02] "[33mGET /callback?data=Belgium HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 13:34:40] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:34:43] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:34:46] "[33mGET /callback?data=Belgium HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 13:34:53] "[33mGET /callback?data=Austria HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 13:36:11] "[33mGET /callback?data=Bangladesh HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 13:38:29] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:38:33] "[33mGET /callback?data=Europe HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 13:39:15] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:39:20] "[33mGET /callback?data=Europe HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 13:42:46] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:42:49] "[33mGET /callback?data=Europe HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 13:50:55] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:50:55] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 13:50:59] "[33mGET /callback?data=Europe HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 14:54:23] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 14:54:27] "[33mGET /callback?data=Austin HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 14:55:55] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 14:56:05] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 14:56:53] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 14:56:56] "[33mGET /callback?data=Austin HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 14:58:02] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 14:58:05] "[33mGET /callback?data=Austin HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 14:58:22] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 14:58:25] "[33mGET /callback?data=Tiburon HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 14:58:48] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 14:58:51] "[33mGET /callback?data=Austin HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 15:01:40] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 15:01:59] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 15:02:02] "[33mGET /callback?data=test HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 15:02:07] "[33mGET /callback?data=georgia HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 15:02:09] "[33mGET /callback?data=Georgia HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 15:03:30] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 15:03:35] "[33mGET /callback?data=ATLANTA HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 15:06:19] "[33mGET /callback?data=ATLANTAS HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 15:06:26] "[33mGET /callback?data=KANSAS HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 15:06:35] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 15:06:40] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 15:06:53] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 15:07:04] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 15:07:06] "[33mGET /callback?data=america HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 15:10:12] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 15:10:16] "[33mGET /callback?data=Aemrei HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 15:10:56] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 15:11:01] "[33mGET /callback?data=america HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 15:11:34] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 15:11:40] "[33mGET /callback?data=america HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 15:12:18] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 15:12:23] "[33mGET /callback?data=Europe HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 15:21:48] "[33mGET /callback?data= HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 15:24:16] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 15:24:25] "[33mGET /callback?data=Europe HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 15:24:48] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 15:24:51] "[33mGET /callback?data=Europe HTTP/1.1[0m" 404 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 16:45:42] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 16:45:42] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 16:45:42] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 16:45:42] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 16:45:43] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 16:45:46] "[33mGET /callback?data=Europe HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 16:46:09] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 16:46:12] "[33mGET /callback?data=austin HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 16:46:17] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 16:46:20] "[33mGET /callback?data=test HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 16:46:23] "[33mGET /callback?data=test2 HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 16:47:23] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 16:47:27] "[33mGET /callback?data=Alabama HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 16:52:55] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 16:52:58] "[33mGET /air_quality/[object%20Object] HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 16:53:07] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 16:53:10] "[33mGET /callback?data=test HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 22:33:19] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:33:26] "[33mGET /air_quality/air_quality/callback?data=europe HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 22:33:37] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:33:42] "[33mGET /callback?data=Europe HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 22:34:41] "[33mGET /air_quality HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 22:34:46] "GET /air_quality/callback HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:34:54] "GET /air_quality/callback HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:34:55] "GET /air_quality/callback HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:34:56] "GET /air_quality/callback HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:35:13] "GET /air_quality/callback?data=test HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:35:40] "GET /air_quality/callback?data=test2 HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:35:53] "[33mGET /callback?data=Europe2 HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 22:36:13] "[33mGET /callback?data=Europe2 HTTP/1.1[0m" 404 -
+10.0.0.151 - - [16/Jul/2021 22:36:40] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:36:45] "GET /air_quality/callback?data=Europe HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:36:56] "GET /air_quality/callback?data=United%20Kingdom HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:37:01] "GET /air_quality/callback?data=Africa HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 22:37:59] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:38:00] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:38:03] "[35m[1mGET /air_quality/callback?data=Africa HTTP/1.1[0m" 500 -
+10.0.0.151 - - [16/Jul/2021 22:40:53] "GET /air_quality/callback?data=Afghanistan HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:41:14] "GET /air_quality/callback?data=Zimbabwe HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:44:21] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:44:49] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:45:19] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:45:22] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:45:23] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:45:24] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:45:25] "GET /air_quality/plotly HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 22:51:59] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:51:59] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:52:05] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:52:09] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:53:37] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:53:40] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:53:41] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:53:42] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:53:45] "[35m[1mGET /air_quality/callback?data=Austin HTTP/1.1[0m" 500 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 22:56:58] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:56:58] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:57:02] "GET /air_quality/callback?data=Austin HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:58:10] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:58:31] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:58:33] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:58:34] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:58:36] "GET /air_quality/plotly HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 22:58:59] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:58:59] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:59:05] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:59:07] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:59:08] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 22:59:09] "GET /air_quality/plotly HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 23:00:15] "GET /air_quality/plotly HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 23:00:49] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:00:49] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:00:49] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:00:49] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:00:53] "GET /air_quality/plotly HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 23:04:44] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:04:47] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:05:01] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:05:04] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:05:05] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:05:07] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:05:09] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:06:45] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:06:49] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:06:51] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:06:52] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:06:53] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:06:54] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:06:55] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:06:56] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:07:01] "GET /air_quality/callback?data=Europe HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:07:14] "GET /air_quality/callback?data=Zimbabwe%09 HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:07:28] "GET /air_quality/callback?data=Zimbabwe HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 23:07:57] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:08:02] "GET /air_quality/callback?data=Zimbabwe%09 HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:08:29] "GET /air_quality/callback?data=Zimbabwe HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:08:29] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:09:39] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:09:41] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:09:43] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:09:44] "GET /air_quality/plotly HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.151 - - [16/Jul/2021 23:10:10] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.151 - - [16/Jul/2021 23:10:10] "GET /air_quality/plotly HTTP/1.1" 200 -

@@ -2,6 +2,7 @@ import serial, time
 import datetime
 import numpy as np
 
+
 def run():
     ser = serial.Serial("/dev/ttyUSB0")
     print(dir(ser))
@@ -16,13 +17,21 @@ def run():
         pmten = int.from_bytes(b"".join(data[4:6]), byteorder="little") / 10
 
         ts = time.time()
-        dts = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d %H:%M:%S')
-        aq = {"PM25": pmtwofive, "PM10": pmten,'ts':dts}
+        dts = datetime.datetime.fromtimestamp(ts).strftime("%Y-%m-%d %H:%M:%S")
+        aq = {"PM25": pmtwofive, "PM10": pmten, "ts": dts}
         x_mean.append(pmtwofive)
         last_sixty = x_mean[-60:]
         last_hour = x_mean[-3600:]
-        print("pm25: {pmtwofive} pm10: {pmten} 1minMA: {minMA:.2f} 1minSTD: {minSTD:.2f} 1hrMA: {hrMA:.2f}".format(pmtwofive=pmtwofive,pmten=pmten,minMA=np.mean(last_sixty),minSTD=np.std(last_sixty),hrMA=np.mean(last_hour)))
-        #print(aq," 1 min MA: ",np.mean(last_sixty), " 1min std:",np.std(last_sixty), " 1hr MA:",np.mean(last_hour))
+        print(
+            "pm25: {pmtwofive} pm10: {pmten} 1minMA: {minMA:.2f} 1minSTD: {minSTD:.2f} 1hrMA: {hrMA:.2f}".format(
+                pmtwofive=pmtwofive,
+                pmten=pmten,
+                minMA=np.mean(last_sixty),
+                minSTD=np.std(last_sixty),
+                hrMA=np.mean(last_hour),
+            )
+        )
+        # print(aq," 1 min MA: ",np.mean(last_sixty), " 1min std:",np.std(last_sixty), " 1hr MA:",np.mean(last_hour))
 
 
 if __name__ == "__main__":

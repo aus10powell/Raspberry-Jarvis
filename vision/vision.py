@@ -1,5 +1,4 @@
 from flask import Blueprint, render_template, request
-
 from picamera import PiCamera
 import os, sys
 import logging
@@ -44,7 +43,6 @@ def bokeh():
         js_resources=js_resources,
         css_resources=css_resources,
     )
-
     return html.encode("utf8")
 
 

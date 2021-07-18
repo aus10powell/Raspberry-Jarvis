@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request, Response
 from vision.vision import vision_bp
+from air_quality.air_quality import air_quality_bp
 import logging
 import datetime
 import sys
@@ -18,7 +19,12 @@ app.register_blueprint(home_bp, template_folder="templates", static_folder="stat
 app.register_blueprint(
     vision_bp, url_prefix="/vision", template_folder="templates", static_folder="static"
 )
-
+app.register_blueprint(
+    air_quality_bp,
+    url_prefix="/air_quality",
+    template_folder="templates",
+    static_folder="static",
+)
 
 logger = logging.getLogger("werkzeug")
 handler = logging.FileHandler("app.log")
