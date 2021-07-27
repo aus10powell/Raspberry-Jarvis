@@ -39,7 +39,7 @@ def plotly():
 
 @air_quality_bp.route("/start_sensor",methods=["GET"])
 def start_sensor():
-    loggin.info("Starting air quality data collection")
+    logging.info("Starting air quality data collection")
     ser = serial.Serial("/dev/ttyUSB0")
 
     x_mean = []
