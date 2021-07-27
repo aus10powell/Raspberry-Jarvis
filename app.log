@@ -3871,3 +3871,46 @@
  * Restarting with stat
 10.0.0.151 - - [16/Jul/2021 23:10:10] "GET /air_quality/plotly HTTP/1.1" 200 -
 10.0.0.151 - - [16/Jul/2021 23:10:10] "GET /air_quality/plotly HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:8000/ (Press CTRL+C to quit)
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.150 - - [26/Jul/2021 11:27:16] "GET /air_quality/callback?data=test HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:27:28] "GET / HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:27:28] "GET /static/css/template.css HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:27:30] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:27:33] "GET /air_quality/plotly?fname=Europe HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:27:33] "GET /air_quality/callback?data=Europe HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.150 - - [26/Jul/2021 11:29:02] "[35m[1mGET /air_quality/plotly?fname=Europe HTTP/1.1[0m" 500 -
+10.0.0.150 - - [26/Jul/2021 11:29:02] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:29:02] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:29:02] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:29:02] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:29:03] "GET /air_quality/plotly?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.150 - - [26/Jul/2021 11:29:15] "GET /air_quality/plotly?fname=Europe HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:29:15] "GET /air_quality/plotly?fname=Europe HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:29:15] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:29:15] "GET /air_quality/plotly?fname=Europe HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:29:28] "GET /air_quality/plotly?fname=Europe HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:29:28] "GET /air_quality/callback?data=Europe HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Detected change in '/home/pi/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+10.0.0.150 - - [26/Jul/2021 11:30:06] "GET /air_quality/plotly?fname=Europe HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.150 - - [26/Jul/2021 11:30:52] "GET /air_quality/plotly?fname=Europe HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:30:59] "GET /air_quality/plotly?fname=Mexico HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:30:59] "GET /air_quality/callback?data=Mexico HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:31:08] "GET /air_quality/plotly?fname=Poland HTTP/1.1" 200 -
+10.0.0.150 - - [26/Jul/2021 11:31:08] "GET /air_quality/callback?data=Poland HTTP/1.1" 200 -

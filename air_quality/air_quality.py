@@ -19,6 +19,7 @@ def gm(country="United Kingdom"):
     df = pd.DataFrame(px.data.gapminder())
 
     country = country.strip()
+    print("Country options: {}".format(df.country.unique()))
     fig = px.line(df[df["country"] == country], x="year", y="gdpPercap", title=f"{country}")
     if country not in df["country"].unique(): logging.warning("{} country not in dataset".format(country))
     print("Plotting country {}".format(country))
