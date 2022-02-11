@@ -3914,3 +3914,172 @@
 10.0.0.150 - - [26/Jul/2021 11:30:59] "GET /air_quality/callback?data=Mexico HTTP/1.1" 200 -
 10.0.0.150 - - [26/Jul/2021 11:31:08] "GET /air_quality/plotly?fname=Poland HTTP/1.1" 200 -
 10.0.0.150 - - [26/Jul/2021 11:31:08] "GET /air_quality/callback?data=Poland HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.195 - - [26/Jul/2021 20:31:34] "GET /about HTTP/1.1" 200 -
+10.0.0.195 - - [26/Jul/2021 20:31:34] "GET / HTTP/1.1" 200 -
+10.0.0.195 - - [26/Jul/2021 20:31:34] "GET /static/css/template.css HTTP/1.1" 200 -
+10.0.0.195 - - [26/Jul/2021 20:31:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+10.0.0.195 - - [27/Jul/2021 08:28:33] "GET / HTTP/1.1" 200 -
+10.0.0.195 - - [27/Jul/2021 08:28:34] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+10.0.0.195 - - [27/Jul/2021 08:28:36] "GET /about HTTP/1.1" 200 -
+10.0.0.195 - - [27/Jul/2021 08:28:36] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:5000/ (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 524-608-819
+10.0.0.55 - - [29/Jan/2022 15:10:31] "GET / HTTP/1.1" 200 -
+10.0.0.55 - - [29/Jan/2022 15:10:32] "GET /static/css/template.css HTTP/1.1" 200 -
+10.0.0.55 - - [29/Jan/2022 15:10:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.55 - - [29/Jan/2022 15:10:38] "GET /vision/take_picture HTTP/1.1" 200 -
+10.0.0.55 - - [29/Jan/2022 15:10:38] "[36mGET /static/css/template.css HTTP/1.1[0m" 304 -
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 524-608-819
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 716-758-291
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 716-758-291
+10.0.0.55 - - [01/Feb/2022 07:21:36] "GET / HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:36] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.55 - - [01/Feb/2022 07:21:38] "GET /about HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:38] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.55 - - [01/Feb/2022 07:21:39] "GET /vision/take_picture HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:39] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.55 - - [01/Feb/2022 07:21:44] "POST /vision/take_picture HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:44] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/display_pictures HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210705-120555.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210709-173829.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210808-105214.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210629-125458.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210715-125701.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210625-122633.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210629-125449.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210709-174920.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210709-174947.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210713-110355.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210625-120144.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210625-123259.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210629-125814.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210625-122643.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210705-112513.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210709-183307.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210625-123249.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210629-125809.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210709-174948.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210709-173816.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210625-125036.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20220129-144145.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210705-212547.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210709-175008.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:48] "GET /vision/static/raspberry_pictures/image_20210709-175100.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:49] "GET /vision/static/raspberry_pictures/image_20220201-072142.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:49] "GET /vision/static/raspberry_pictures/image_20210705-120501.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:49] "GET /vision/static/raspberry_pictures/image_20210629-174651.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:49] "GET /vision/static/raspberry_pictures/image_20210626-154342.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:49] "GET /vision/static/raspberry_pictures/image_20210625-113449.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [01/Feb/2022 07:21:49] "GET /vision/static/raspberry_pictures/image_20210705-112502.jpg HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.17:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+10.0.0.55 - - [10/Feb/2022 06:58:37] "GET / HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:58:37] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.55 - - [10/Feb/2022 06:58:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.55 - - [10/Feb/2022 06:58:57] "GET /about HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:58:57] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.55 - - [10/Feb/2022 06:58:58] "GET /vision/take_picture HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:58:58] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/display_pictures HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210705-120555.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210709-173829.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210629-125809.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210629-125449.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210625-123249.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210709-174948.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210625-122633.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210625-123259.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20220129-144145.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210625-113449.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210629-174651.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210705-112502.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210713-110355.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210629-125458.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210709-175008.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210629-125814.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210626-154342.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210709-174920.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20220201-072142.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210705-112513.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:01] "GET /vision/static/raspberry_pictures/image_20210715-125701.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:02] "GET /vision/static/raspberry_pictures/image_20210705-212547.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:02] "GET /vision/static/raspberry_pictures/image_20210625-122643.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:02] "GET /vision/static/raspberry_pictures/image_20210625-120144.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:02] "GET /vision/static/raspberry_pictures/image_20210709-173816.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:02] "GET /vision/static/raspberry_pictures/image_20210625-125036.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:02] "GET /vision/static/raspberry_pictures/image_20210709-174947.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:02] "GET /vision/static/raspberry_pictures/image_20210705-120501.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:02] "GET /vision/static/raspberry_pictures/image_20210709-175100.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:02] "GET /vision/static/raspberry_pictures/image_20210709-183307.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 06:59:02] "GET /vision/static/raspberry_pictures/image_20210808-105214.jpg HTTP/1.1" 200 -
+10.0.0.55 - - [10/Feb/2022 07:00:00] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.106 - - [10/Feb/2022 07:02:00] "GET /air_quality/plotly HTTP/1.1" 200 -
+10.0.0.106 - - [10/Feb/2022 07:02:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.0.0.106 - - [10/Feb/2022 07:02:09] "GET /air_quality/plotly HTTP/1.1" 200 -
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.17:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+ * Detected change in '/home/pi/RaspberryJarvis/wsgi.py', reloading
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.17:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+10.0.0.195 - - [10/Feb/2022 07:25:53] "GET / HTTP/1.1" 200 -
+10.0.0.195 - - [10/Feb/2022 07:25:53] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+ * Detected change in '/home/pi/RaspberryJarvis/wsgi.py', reloading
+ * Restarting with stat
+10.0.0.195 - - [10/Feb/2022 07:26:21] "GET / HTTP/1.1" 200 -
+10.0.0.195 - - [10/Feb/2022 07:26:22] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
