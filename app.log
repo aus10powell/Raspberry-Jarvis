@@ -4083,3 +4083,5 @@
  * Restarting with stat
 10.0.0.195 - - [10/Feb/2022 07:26:21] "GET / HTTP/1.1" 200 -
 10.0.0.195 - - [10/Feb/2022 07:26:22] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
