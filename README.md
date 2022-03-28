@@ -22,23 +22,7 @@
 
 ### App Structure
 #### Current
-```code
-|-- RaspberryJarvis
-|   |-- app.py
-|   |-- /air_quality
-|   |   |-- /templates
-|   |-- /vision
-|   |   |-- /templates
-|   |   |   |-- /vision
-|   |   |   |   |--take_picture.html
-|   |   |   |   |--display_picture.html
-|   |   |--vision.py
-|   |-- /templates
-|   |   |--template.html
-|   |-- wsgi.py
-|   |-- README.md
-|   |-- requirements.txt
-```
+
 #### Planned
 ```code
 /RaspberryJarvis
@@ -50,11 +34,11 @@
 │   │   ├── /templates
 │   │   ├── /static
 │   │   └── routes.py
-│   ├── /profile
+│   ├── /vision
 │   │   ├── /templates
 │   │   ├── /static
 │   │   └── routes.py
-│   ├── /products
+│   ├── /air_quality
 │   │   ├── /templates
 │   │   ├── /static
 │   │   └── routes.py
@@ -82,6 +66,8 @@
 * **ReSpeaker 4-Mic**
 
 ## Educational Resources Used
+* **Local:** include  host="0.0.0.0", debug=True, port=3000 and run *python wsgi.py*
+* **On-server:**
 * **Setting up development locally** (I used a mac to ssh in using VScode)
     * **Development Site Techstack**
         * Server:
