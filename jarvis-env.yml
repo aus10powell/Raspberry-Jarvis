@@ -1,0 +1,5 @@
+name: jarvis-env
+channels:
+  - rpi
+  - defaults
+prefix: /home/pi/miniconda3/envs/jarvis-env
