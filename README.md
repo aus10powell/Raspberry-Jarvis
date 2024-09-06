@@ -6,6 +6,8 @@
 * **Visual**
     * **View Images**
     * **Take pictures**
+* **Air Quality**
+    * Can run script to start capturing input from PM2.5 and PM10
 
 ## Planned Capabilities:
 * **Air Quality**

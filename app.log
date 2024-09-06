@@ -5804,3 +5804,392 @@
 10.0.0.195 - - [02/Mar/2022 20:04:00] "[33mGET /static/raspberry_pictures/image_20220301-162746.jpg HTTP/1.1[0m" 404 -
 10.0.0.195 - - [02/Mar/2022 20:04:00] "[33mGET /static/raspberry_pictures/image_20210626-154342.jpg HTTP/1.1[0m" 404 -
 10.0.0.195 - - [02/Mar/2022 20:04:00] "[33mGET /static/raspberry_pictures/image_20210709-173816.jpg HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+ * Detected change in '/home/pi/RaspberryJarvis/stream_video.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+10.0.0.195 - - [31/Mar/2022 23:53:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [31/Mar/2022 23:53:44] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:53:44] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:53:44] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:53:44] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:53:44] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/sound/sound.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/sound/sound.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+10.0.0.195 - - [31/Mar/2022 23:55:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [31/Mar/2022 23:55:58] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [31/Mar/2022 23:55:58] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:55:58] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:55:58] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:55:59] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:55:59] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/sound/sound.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+10.0.0.195 - - [31/Mar/2022 23:56:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [31/Mar/2022 23:56:40] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:56:40] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:56:40] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:56:40] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:56:40] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/sound/sound.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/sound/sound.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+10.0.0.195 - - [31/Mar/2022 23:57:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [31/Mar/2022 23:57:21] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:57:21] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:57:21] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:57:21] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:57:21] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+10.0.0.195 - - [31/Mar/2022 23:57:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [31/Mar/2022 23:57:38] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:57:38] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:57:38] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:57:38] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:57:38] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:57:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [31/Mar/2022 23:57:49] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:57:49] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:57:50] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:57:50] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/sound/sound.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/sound/sound.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+10.0.0.195 - - [31/Mar/2022 23:58:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [31/Mar/2022 23:58:40] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:58:40] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:58:41] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:58:41] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:58:41] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 119-023-942
+10.0.0.195 - - [31/Mar/2022 23:59:12] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [31/Mar/2022 23:59:12] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:59:12] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:59:12] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:59:12] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:59:12] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:59:13] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [31/Mar/2022 23:59:13] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:59:13] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:59:13] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:59:13] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:59:13] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:59:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [31/Mar/2022 23:59:17] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:59:17] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:59:17] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:59:17] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [31/Mar/2022 23:59:17] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/__init__.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Detected change in '/home/pi/RaspberryJarvis/models.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Detected change in '/home/pi/RaspberryJarvis/models.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/__init__.py', reloading
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/__init__.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+10.0.0.195 - - [09/Apr/2022 13:36:05] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [09/Apr/2022 13:36:05] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:36:05] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:36:06] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:36:06] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:36:06] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/sound/sound.py', reloading
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+10.0.0.195 - - [09/Apr/2022 13:36:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [09/Apr/2022 13:36:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [09/Apr/2022 13:36:50] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:36:50] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:36:50] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:36:50] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:36:50] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+10.0.0.195 - - [09/Apr/2022 13:37:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [09/Apr/2022 13:37:31] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:37:31] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:37:31] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:37:31] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:37:31] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+10.0.0.195 - - [09/Apr/2022 13:38:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [09/Apr/2022 13:38:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [09/Apr/2022 13:38:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [09/Apr/2022 13:38:56] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:38:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+10.0.0.195 - - [09/Apr/2022 13:38:56] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:38:57] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:38:57] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:38:57] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+10.0.0.195 - - [09/Apr/2022 13:39:30] "GET / HTTP/1.1" 200 -
+10.0.0.195 - - [09/Apr/2022 13:39:30] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+10.0.0.195 - - [09/Apr/2022 13:39:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/__init__.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/config.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/config.py', reloading
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/config.py', reloading
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/__init__.py', reloading
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/__init__.py', reloading
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 806-024-071
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.0.16:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://192.168.4.88:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 112-184-236
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://192.168.4.88:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 112-184-236
+192.168.4.87 - - [05/Sep/2024 11:00:06] "GET / HTTP/1.1" 200 -
+192.168.4.87 - - [05/Sep/2024 11:00:06] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:09] "GET /about HTTP/1.1" 200 -
+192.168.4.87 - - [05/Sep/2024 11:00:09] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:11] "GET /take_picture HTTP/1.1" 200 -
+192.168.4.87 - - [05/Sep/2024 11:00:11] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:14] "POST /take_picture HTTP/1.1" 200 -
+192.168.4.87 - - [05/Sep/2024 11:00:14] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "GET /display_pictures HTTP/1.1" 200 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210705-120555.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210709-173829.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210625-122633.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20220401-000039.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210709-174920.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210705-212547.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20220201-072142.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210629-125449.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210709-175100.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210709-183307.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210625-125036.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210705-120501.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210629-125814.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210626-154342.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210629-125809.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20220301-162612.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210625-123249.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20220301-162216.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20220217-231258.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210709-174947.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210625-120144.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210705-112513.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210629-125458.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20220301-162035.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210625-122643.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210705-112502.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20220301-162746.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20220217-231920.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210808-105214.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210625-123259.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210709-174948.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210713-110355.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210629-174651.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20220301-162301.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210709-175008.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210709-173816.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210715-125701.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20240905-110012.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20210625-113449.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20220217-232158.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20220301-162744.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:17] "[33mGET /static/raspberry_pictures/image_20220129-144145.jpg HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:00:25] "GET /plotly HTTP/1.1" 200 -
+192.168.4.87 - - [05/Sep/2024 11:00:29] "GET /plotly HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 112-184-236
+192.168.4.87 - - [05/Sep/2024 11:03:12] "[33mGET /plotly HTTP/1.1[0m" 404 -
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 112-184-236
+192.168.4.87 - - [05/Sep/2024 11:04:24] "[33mGET /plotly HTTP/1.1[0m" 404 -
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://192.168.4.88:3000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 112-184-236
+192.168.4.87 - - [05/Sep/2024 11:04:42] "[33mGET /plotly HTTP/1.1[0m" 404 -
+192.168.4.87 - - [05/Sep/2024 11:04:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+192.168.4.87 - - [05/Sep/2024 11:04:49] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+192.168.4.87 - - [05/Sep/2024 11:04:49] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+192.168.4.87 - - [05/Sep/2024 11:04:49] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+192.168.4.87 - - [05/Sep/2024 11:04:49] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in '/home/pi/RaspberryJarvis/RaspberryJarvis/air_quality/air_quality.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 112-184-236
+192.168.4.87 - - [05/Sep/2024 11:05:21] "GET / HTTP/1.1" 200 -
+192.168.4.87 - - [05/Sep/2024 11:05:21] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+192.168.4.20 - - [05/Sep/2024 11:07:48] "GET / HTTP/1.1" 200 -
+192.168.4.20 - - [05/Sep/2024 11:07:48] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
+192.168.4.20 - - [05/Sep/2024 11:07:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.4.20 - - [05/Sep/2024 11:08:02] "GET /about HTTP/1.1" 200 -
+192.168.4.20 - - [05/Sep/2024 11:08:03] "[33mGET /static/css/template.css HTTP/1.1[0m" 404 -
