@@ -1,4 +1,5 @@
-from flask import Blueprint, render_template, request, Markup
+from flask import Blueprint, render_template, request
+from markupsafe import Markup
 import json
 from plotly import utils
 import plotly.express as px

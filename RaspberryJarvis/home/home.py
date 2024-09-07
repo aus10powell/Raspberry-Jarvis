@@ -1,5 +1,4 @@
 from flask import Blueprint, render_template
-from picamera import PiCamera
 
 home_bp = Blueprint(
     "home_bp", __name__, static_folder="static", template_folder="templates"

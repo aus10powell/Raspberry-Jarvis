@@ -1,5 +1,5 @@
 from flask import Blueprint, render_template, request
-from picamera import PiCamera
+# from picamera import PiCamera
 import os, sys
 import logging
 import datetime
@@ -8,7 +8,6 @@ from time import sleep
 from bokeh import plotting
 from bokeh import resources
 from bokeh import embed
-from bokeh.util import string
 
 vision_bp = Blueprint(
     "vision_bp", __name__, template_folder="templates", static_folder="static"
@@ -57,10 +56,10 @@ def take_picture():
             "Hello world! {}".format(os.path.dirname(os.path.realpath(__file__))),
             file=sys.stderr,
         )
-        # Take a picture
-        with PiCamera() as camera:
-            sleep(1)
-            camera.capture(os.path.join(PICTURE_DIR, pic_fname))
+        # TODO: Take a picture
+        # with PiCamera() as camera:
+        #     sleep(1)
+        #     camera.capture(os.path.join(PICTURE_DIR, pic_fname))
 
         logging.info("INFO Picture Taken")
         picture_status = "Picture Taken"
