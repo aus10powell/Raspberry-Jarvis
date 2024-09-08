@@ -15,15 +15,13 @@ db = SQLAlchemy()
 
 app = Flask(__name__)
 db.init_app(app)
-app.register_blueprint(home_bp, template_folder="templates", static_folder="static")
+app.register_blueprint(home_bp, template_folder="templates")
 app.register_blueprint(
-    vision_bp, url_prefix="/vision", template_folder="templates", static_folder="static"
-)
+    vision_bp, url_prefix="/vision", template_folder="templates", static_folder="vision/static")
 app.register_blueprint(
     air_quality_bp,
     url_prefix="/air_quality",
-    template_folder="templates",
-    static_folder="static",
+    template_folder="templates" 
 )
 
 logger = logging.getLogger("werkzeug")

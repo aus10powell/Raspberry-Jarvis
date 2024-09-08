@@ -7,15 +7,15 @@
     {% extends "template.html" %}
     {% block content %}
 
-   <ul>
+    <ul>
       <h2>Current Pics:</h2>
       {% for name in image_names %}
-
-      <img src="{{ url_for('vision_bp.static', filename= 'raspberry_pictures/' + name) }}" width="300">
-
+        <li>
+          <img src="{{ url_for('vision_bp.static', filename='raspberry_pictures/' + name) }}" width="300" alt="{{ name }}">
+        </li>
       {% endfor %}
+    </ul>
 
-      {% endblock %}
-
-</body>
-</HTML>
+    {% endblock %}
+  </body>
+</html>
